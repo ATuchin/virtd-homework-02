@@ -46,3 +46,15 @@ Terraform
 Ansible
 
 ![Ansible](image-3.png)
+
+
+Задание 4
+
+
+Ответ:
+установленный сервер Ubuntu 20
+
+![Виртуальный сервер нетологии в Vagrant](image-4.png)
+
+Установленный докер из Ansible
+![Docker запущен внутри VM](image-5.png)
